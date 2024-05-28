@@ -6,7 +6,7 @@ This Flutter-based application allows users to browse and download high-quality 
 
 ## Download Latest Release
 
-[Wallpaper Application](https://github.com/official-shashi/Wallpaper-App/blob/main/build/app/outputs/flutter-apk/WallpaperApp.apk)
+[Wallpaper Application](https://github.com/official-shashi/Wallpaper/blob/main/screenshot/Wallpaper.apk)
 
 ## Features
 - Browse a wide range of high-quality wallpapers.
@@ -18,10 +18,11 @@ This Flutter-based application allows users to browse and download high-quality 
 
 ## Wallpaper Application Screenshots
 <p align="center">
-    <img src="https://github.com/official-shashi/Wallpaper-App/blob/main/screenshot/SplashScreen.jpg" alt="Splash Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper-App/blob/main/screenshot/HomeScreen.jpg" alt="Home Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper-App/blob/main/screenshot/SearchScreen.jpg" alt="Search Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper-App/blob/main/screenshot/DetailsScreen.jpg" alt="Details Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/HomeScreen.png" alt="Home Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/CategoryScreen.png" alt="Category Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/SearchScreen.png" alt="Search Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/FullScreen%26Download.png" alt="Full Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/SetWallpaperScreen.png" alt="SetWallpaper Screen" width="200"/>
 </p>
 
 ## App Details
@@ -74,7 +75,7 @@ Stay connected and enjoy a vast collection of wallpapers with this powerful Wall
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 ## Project Link
-For more details, explore the [GitHub repository](https://github.com/official-shashi/Wallpaper-App).
+For more details, explore the [GitHub repository](https://github.com/official-shashi/Wallpaper).
 
 ## API Reference
 This application uses the Pexels API. For more details, visit [Pexels API](https://www.pexels.com/api/).
