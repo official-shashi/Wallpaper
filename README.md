@@ -18,11 +18,11 @@ This Flutter-based application allows users to browse and download high-quality 
 
 ## Wallpaper Application Screenshots
 <p align="center">
-    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/HomeScreen.png" alt="Home Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/CategoryScreen.png" alt="Category Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/SearchScreen.png" alt="Search Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/FullScreen%26Download.png" alt="Full Screen" width="200"/>
-    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/SetWallpaperScreen.png" alt="SetWallpaper Screen" width="200"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/HomeScreen.png" alt="Home Screen" width="150"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/CategoryScreen.png" alt="Category Screen" width="150"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/SearchScreen.png" alt="Search Screen" width="150"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/FullScreen%26Download.png" alt="Full Screen" width="150"/>
+    <img src="https://github.com/official-shashi/Wallpaper/blob/main/screenshot/SetWallpaperScreen.png" alt="SetWallpaper Screen" width="150"/>
 </p>
 
 ## App Details
